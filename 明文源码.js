@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '58c95ee1-1320-439f-b41b-083d4962fa59';
+let userID = 'f536fef3-17d4-4fdd-8ea4-b681aa3a3c61';
 let proxyIP = 'proxyip.cmliussss.net';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
